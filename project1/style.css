@@ -22,11 +22,13 @@ html, body{
     font-size: 150%;
     margin: 0;
 }
+
 #navbar a{
     font-weight: bold;
     text-decoration: none;
     color: #222;
 }
+
 #navfirst, #navThird {
     display: flex;
     gap: 50px;
@@ -82,6 +84,7 @@ html, body{
     left: 55%;
     top: 60%;
 }
+
 #footer {
     display: flex;
     justify-content: space-between;
